@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "course-maneger"
+  "defaultProject": "course-maneger",
+  "cli": {
+    "analytics": "e5e2be48-9fbc-4fa4-a44d-2377c2e67844"
+  }
 }
