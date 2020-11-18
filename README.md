@@ -29,6 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Curso Introdução Angular 
 
 Desenvolvedor: Carlos Rodrigo
+
 Plataforma: Digital Innovation One
-Porfessor: Wesllhey Holdanda 
+
+Porfessor: Wesllhey Holdanda
+ 
 github: @wesllhey
